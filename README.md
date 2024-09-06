@@ -6,4 +6,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 # Progress
 
-- Chapter 7
+- Chapter 12
